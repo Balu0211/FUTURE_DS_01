@@ -105,6 +105,14 @@ The dashboard contains:
 - Key Findings
 - Recommended Actions
 
+  ## Dashboard Preview
+
+### Executive Sales Overview
+![Dashboard Page 1](dashboard_page1.png)
+
+### Product & Regional Performance
+![Dashboard Page 2](dashboard_page2.png)
+
 ## Key Business Insights
 
 - Technology is the strongest category by overall sales and profit.
